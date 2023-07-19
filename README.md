@@ -19,6 +19,6 @@ My name is Trieu Hong Ky. I am a student in information technology, majoring in 
 </a>  
 <a href="https://github.com/TrieuHongKy/DuAnTotNghiep">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=DuAnTotNghiep&theme=codeSTACKr" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=DuAnTotNghiep&theme=aura" />
 </a>  
 
