@@ -6,6 +6,6 @@ My name is Trieu Hong Ky. I am a student in information technology, majoring in 
 
 <a href="https://github.com/TrieuHongKy/PHP3_WebsiteBanGiay">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trieuhongky&repo=QuickDraw&theme=radical" />
 </a>    
 
