@@ -4,7 +4,7 @@ My name is Trieu Hong Ky. I am a student in information technology, majoring in 
 
 ![Hongky's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TrieuHongKy&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/TrieuHongKy/PHP3_WebsiteBanGiay">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>    
