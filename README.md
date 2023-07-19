@@ -6,6 +6,15 @@ My name is Trieu Hong Ky. I am a student in information technology, majoring in 
 
 <a href="https://github.com/TrieuHongKy/PHP3_WebsiteBanGiay">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=PHP3_WebsiteBanGiay&theme=transparent" />
-</a>    
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=PHP3_WebsiteBanGiay&theme=highcontrast" />
+</a>  
+<a href="https://github.com/TrieuHongKy/Duan1_PHP">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=Duan1_PHP&theme=algoliat" />
+</a>  
+
+<a href="https://github.com/TrieuHongKy/duan1">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=duan1&theme=chartreuse-dark" />
+</a>  
 
