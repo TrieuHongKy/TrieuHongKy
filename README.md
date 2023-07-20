@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm TrieuHongKy</h1>
 <h3 align="center">I am a passionate frontend and backend website developer from Can Tho</h3>
+<img align="right" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
