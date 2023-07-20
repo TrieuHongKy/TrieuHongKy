@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm TrieuHongKy</h1>
 <h3 align="center">I am a passionate frontend and backend website developer from Can Tho</h3>
-<img align="right" width="400px" src="[https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u](https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47kgwrk2g3ka9pmzkmyd7sfwhh006ua6jabm4gmz82&ep=v1_gifs_search&rid=200w.webp&ct=g)">
+<img align="right" width="450" src='https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932'>
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">My repository:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ky-trieu-hong-84141127b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ky-trieu-hong-84141127b/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ky111103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ky111103" height="30" width="40" /></a>
