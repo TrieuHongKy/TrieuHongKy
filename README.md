@@ -32,5 +32,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=DuAnTotNghiep&theme=chartreuse-dark" />
 </a>  
+<a href="https://github.com/TrieuHongKy/Portfolio">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=Portfolio&theme=highcontrast" />
+</a>  
 
 
