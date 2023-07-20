@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TrieuHongKy</h1>
 <h3 align="center">I am a passionate frontend and backend website developer from Can Tho</h3>
-<img align="right" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
+<img align="right" width="400px" src="[https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u](https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47kgwrk2g3ka9pmzkmyd7sfwhh006ua6jabm4gmz82&ep=v1_gifs_search&rid=200w.webp&ct=g)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
