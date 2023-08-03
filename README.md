@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TrieuHongKy</h1>
-<h3 align="center">I am a passionate  website developer from Can Tho</h3>
+<h3 align="center">I am a passionate fullstack website developer from Can Tho</h3>
 <img align="right" width="450" src='https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932'>
 
 
