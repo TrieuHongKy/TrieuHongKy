@@ -27,18 +27,18 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=TVKG&theme=highcontrast" />
 </a>  
-<a href="https://github.com/TrieuHongKy/duan1">
+<a href="https://github.com/TrieuHongKy/Portfolio-Vue">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=duan1&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=Portfolio-Vue&theme=vision-friendly-dark" />
 </a>  
 
-<a href="https://github.com/TrieuHongKy/DuAnTotNghiep">
+<a href="https://github.com/TrieuHongKy/Instagram-Clone-BackEnd">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=DuAnTotNghiep&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=Instagram-Clone-BackEnd&theme=chartreuse-dark" />
 </a>  
-<a href="https://github.com/TrieuHongKy/Portfolio">
+<a href="https://github.com/TrieuHongKy/TrieuHongKy">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=Portfolio&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=TrieuHongKy&theme=highcontrast" />
 </a>  
 
 
