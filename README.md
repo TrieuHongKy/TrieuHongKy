@@ -23,9 +23,9 @@
 ![Hongky's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TrieuHongKy&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
-<a href="https://github.com/TrieuHongKy/PHP3_WebsiteBanGiay">
+<a href="https://github.com/TrieuHongKy/TVKG">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=PHP3_WebsiteBanGiay&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TrieuHongKy&repo=TVKG&theme=highcontrast" />
 </a>  
 <a href="https://github.com/TrieuHongKy/duan1">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
